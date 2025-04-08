@@ -1,0 +1,274 @@
+[
+
+    {
+      "titulo": "Grupo Firme",
+      "fecha": "19 y 20 de abril",
+      "lugar": "Palenque San Marcos, Aguascalientes",
+      "imagen": "media/firme.png",
+      "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+      "categoria": "conciertos",
+      "alt": "Imagen de Firme San Marcos"
+    },
+  
+    {
+      "titulo": "Jorge Medina y Josi Cuen",
+      "fecha": "21, 23 y 24 de abril",
+      "lugar": "Palenque San Marcos, Aguascalientes",
+      "imagen": "media/jorgeYJosi.png",
+      "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+      "categoria": "conciertos",
+      "alt": "Imagen de Jorge y Josi San Marcos"
+    },
+  
+    {
+      "titulo": "Natalia Jiménez",
+      "fecha": "22 de abril",
+      "lugar": "Palenque San Marcos, Aguascalientes",
+      "imagen": "media/nataliaJ.png",
+      "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+      "categoria": "conciertos",
+      "alt": "Imagen de Natalia San Marcos"
+    },
+  
+    {
+      "titulo": "Alejandro Fernandez",
+      "fecha": "25 y 26 de abril",
+      "lugar": "Palenque San Marcos, Aguascalientes",
+      "imagen": "media/alejandroFdz.png",
+      "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+      "categoria": "conciertos",
+      "alt": "Imagen de Alejandro Fdz San Marcos"
+    },
+  
+    {
+        "titulo": "Quevedo",
+        "fecha": "25 de abril",
+        "lugar": "Auditorio Telmex, Guadalajara",
+        "imagen": "media/quevedo.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Quevedo"
+      },
+    
+      {
+        "titulo": "Cristian Nodal",
+        "fecha": "25 de abril",
+        "lugar": "Palenque de Tepatitlán",
+        "imagen": "media/nodal.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Nodal"
+      },
+    
+      {
+        "titulo": "Eden Muñoz",
+        "fecha": "26 de abril",
+        "lugar": "Palenque de Tepatitlán",
+        "imagen": "media/edenM.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Eden Muñoz"
+      },
+  
+      {
+        "titulo": "Julión Álvarez",
+        "fecha": "27 y 28 de abril",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/julion.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Julion San Marcos"
+      },
+  
+      {
+        "titulo": "Luis R y Netón Vega",
+        "fecha": "27 de abril",
+        "lugar": "Palenque de Tepatitlán",
+        "imagen": "media/luisRNeton.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen Luis R y Netón"
+      },
+  
+      {
+        "titulo": "Carín León",
+        "fecha": "29 y 30 de abril",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/carin.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Carín León San Marcos"
+      },
+    
+      {
+        "titulo": "Jorge Medina y Josi Cuen",
+        "fecha": "30 de abril",
+        "lugar": "Palenque de Tepatitlán",
+        "imagen": "media/jorgeYJosi.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Jorge y Josi"
+      },
+  
+      {
+        "titulo": "Conjunto Primavera",
+        "fecha": "1 de mayo",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/primavera.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Conjunto Primavera San Marcos"
+      },
+    
+      {
+        "titulo": "Alfredo Olivas",
+        "fecha": "1 de mayo",
+        "lugar": "Palenque de Tepatitlán",
+        "imagen": "media/alfredito.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Alfredo Olivas"
+      },
+  
+      {
+        "titulo": "Gabito Ballesteros",
+        "fecha": "2 de mayo",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/gabito.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Gabito San Marcos"
+      },
+    
+      {
+        "titulo": "Chuy Lizárraga",
+        "fecha": "2 de mayo",
+        "lugar": "Palenque de Tepatitlán",
+        "imagen": "media/chuyL.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Chuy Lizárraga"
+      },
+  
+      {
+        "titulo": "Natanael Cano",
+        "fecha": "3 de mayo",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/nata.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Natanael Cano San Marcos"
+      },
+    
+      {
+        "titulo": "Natalia Jiménez",
+        "fecha": "3 de mayo",
+        "lugar": "Palenque de Tepatitlán",
+        "imagen": "media/nataliaJ.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Natalia Jiménez"
+      },
+  
+      {
+        "titulo": "Cristian Nodal",
+        "fecha": "4 de mayo",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/nodal.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Cristian Nodal San Marcos"
+      },
+    
+      {
+        "titulo": "Julión Álvarez",
+        "fecha": "4 de mayo",
+        "lugar": "Palenque de Tepatitlán",
+        "imagen": "media/julion.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Julión"
+      },
+  
+      {
+        "titulo": "Alfredo Olivas",
+        "fecha": "5 de mayo",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/alfredito.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Alfredito San Marcos"
+      },
+  
+      {
+        "titulo": "Grupo Duelo",
+        "fecha": "6 de mayo",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/duelo.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Grupo Duelo San Marcos"
+      },
+  
+      {
+        "titulo": "Junior H",
+        "fecha": "7 de mayo",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/juniorH.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Junior H San Marcos"
+      },
+  
+      {
+        "titulo": "Palomazo Norteño",
+        "fecha": "8 de mayo",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/palomazo.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Palomazo Norteño San Marcos"
+      },
+  
+      {
+        "titulo": "Remmy Valenzuela",
+        "fecha": "9 de mayo",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/remmyV.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Remmy Valenzuela San Marcos"
+      },
+  
+      {
+        "titulo": "Grupo Firme",
+        "fecha": "9 de mayo",
+        "lugar": "Palenque de Tepatitlán",
+        "imagen": "media/firme.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Grupo Firme"
+      },
+  
+      {
+        "titulo": "Gloria Trevi",
+        "fecha": "10 de mayo",
+        "lugar": "Palenque San Marcos, Aguascalientes",
+        "imagen": "media/trevi.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Gloria Trevi San Marcos"
+      }, 
+  
+      {
+        "titulo": "Oscar Maydon",
+        "fecha": "11 de junio",
+        "lugar": "Auditorio Telmex, Guadalajara",
+        "imagen": "media/maydon.png",
+        "enlaceCompra": "https://api.whatsapp.com/message/SI7ETJLI4LTSI1?autoload=1&app_absent=0",
+        "categoria": "conciertos",
+        "alt": "Imagen de Maydon"
+      }
+    
+    ]
+    
