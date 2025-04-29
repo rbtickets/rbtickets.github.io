@@ -7,7 +7,9 @@
       "imagen": "media/jorgeYJosi.png",
       "enlaceCompra": "https://mpago.li/1BVwNV3",
       "categoria": "conciertos",
-      "alt": "Imagen de Jorge y Josi"
+      "alt": "Imagen de Jorge y Josi",
+      "opcion1": "$3500 pesos",
+      "opcion2": "$2000 pesos"
     },
 
     {
